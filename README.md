@@ -40,6 +40,4 @@ Screenshot 3:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
-[Your Name]  
-[Your Contact Information]
-
+[Vedant Pankar]
